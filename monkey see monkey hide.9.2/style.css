@@ -1,7 +1,14 @@
-.center{display flex
 
+#monkeyclosed {
+    display: none;
 }
 
-#closed {
-    
+
+.monkey{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        font-size: 45vw;
+        padding-left: 250px;
 }
