@@ -1,0 +1,1 @@
+cons winkelmantje = ["bananen", "wiskey",  ]

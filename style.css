@@ -1,0 +1,9 @@
+.venster{display: flex}
+
+
+.cookiecontent{
+    margin:auto;
+    border: 1px;
+    width: 50%;
+    opacity: 0.8;
+}
