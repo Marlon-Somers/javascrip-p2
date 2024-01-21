@@ -1,0 +1,30 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#choices
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25rem;
+}
+
+#choices button
+{
+    border: solid;
+    border-radius: 50px;
+    border-color: black;
+    background-color: aqua;
+    width: 180px;
+    height: 125px;
+    font-size: 60px;
+    margin: 5px;
+}
